@@ -1,0 +1,3 @@
+scipy
+numpy
+niapy==2.3.1
